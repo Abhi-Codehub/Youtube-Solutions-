@@ -1,5 +1,5 @@
 # Java Solution 
-## 26
+## LeetCode 26
 ## Using HashSet
 ```
 import java.util.Arrays;
