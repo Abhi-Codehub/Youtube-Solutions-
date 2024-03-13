@@ -1,5 +1,5 @@
 # Java Solution 
-# LeetCode - 2485
+## LeetCode - 2485
 ## Using sum of N natural numbers approach
 ```
 class Solution {
