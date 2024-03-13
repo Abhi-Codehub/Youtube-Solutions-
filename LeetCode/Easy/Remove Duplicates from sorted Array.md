@@ -1,4 +1,5 @@
 # Java Solution 
+## 26
 ## Using HashSet
 ```
 import java.util.Arrays;
